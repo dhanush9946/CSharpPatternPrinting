@@ -1,0 +1,14 @@
+C:\Users\dhanu\source\repos\Pattern\Pattern\bin\Debug\net9.0\Pattern.exe
+C:\Users\dhanu\source\repos\Pattern\Pattern\bin\Debug\net9.0\Pattern.deps.json
+C:\Users\dhanu\source\repos\Pattern\Pattern\bin\Debug\net9.0\Pattern.runtimeconfig.json
+C:\Users\dhanu\source\repos\Pattern\Pattern\bin\Debug\net9.0\Pattern.dll
+C:\Users\dhanu\source\repos\Pattern\Pattern\bin\Debug\net9.0\Pattern.pdb
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfo.cs
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.dll
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\refint\Pattern.dll
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.pdb
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.genruntimeconfig.cache
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\ref\Pattern.dll
