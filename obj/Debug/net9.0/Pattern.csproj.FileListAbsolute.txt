@@ -12,3 +12,4 @@ C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\refint\Pattern.dll
 C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.pdb
 C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.genruntimeconfig.cache
 C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\ref\Pattern.dll
+C:\Users\dhanu\source\repos\Pattern\Pattern\obj\Debug\net9.0\Pattern.sourcelink.json

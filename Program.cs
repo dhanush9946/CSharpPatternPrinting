@@ -1,20 +1,17 @@
-﻿public class Pattern
+﻿using Pattern;
+
+
+namespace Pa
 {
-    public static void Main()
+
+    public class Pattern
     {
-        int row, col, num;
-
-        Console.WriteLine("Enter the lengthh of the row");
-        num = Convert.ToInt32(Console.ReadLine());
-
-        for (row = 0; row < num; row++)
+        public static void Main()
         {
-            for (col = 0; col <= row; col++)
-            {
-                Console.Write("* ");
-            }
-            Console.WriteLine();
+
+
+            //Apattern.Main1();
+            Piramid.Main2();
         }
-        Console.ReadLine();
     }
 }
