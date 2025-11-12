@@ -11,7 +11,8 @@ namespace Pa
 
 
             //Apattern.Main1();
-            Piramid.Main2();
+            //Piramid.Main2();
+            Base.Main4();
         }
     }
 }
