@@ -14,7 +14,8 @@ namespace Pa
             //Piramid.Main2();
             //Base.Main4();
             //InterviewTriagle.Main5();
-            PiramidNumber.Main5();
+            // PiramidNumber.Main5();
+            PiramidLetter.Main6();
         }
     }
 }
