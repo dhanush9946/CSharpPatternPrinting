@@ -13,7 +13,7 @@ namespace Pattern
             string str;
             Console.WriteLine("Enter the word");
             str = Console.ReadLine();
-            for(int row = 0; row < str.Length; row++)
+            for(int row = 0; row <= str.Length; row++)
             {
                 for(int col = 0; col < row; col++)
                 {
